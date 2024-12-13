@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\petre\source\repos\Kursovaya\Kursovaya\List.h(44,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Main.cpp")
+  
+  Kursovaya.vcxproj -> C:\Users\petre\source\repos\Kursovaya\x64\Debug\Kursovaya.exe
